@@ -6,6 +6,7 @@ doc/
 .DS_Store
 .idea
 .secret
+logfile
 
 
 *.gem
@@ -80,4 +81,3 @@ bower.json
 
 # Ignore pow environment settings
 .powenv
-
