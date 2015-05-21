@@ -1,4 +1,5 @@
 module ApplicationHelper
+  # Return full title for page
   def full_title(page_title)
     base_title = 'クソリプブロッカー'
 
