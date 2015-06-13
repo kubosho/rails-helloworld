@@ -12,6 +12,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bcrypt-ruby'
+gem 'factory_girl_rails'
 
 group :doc do
   gem 'sdoc', '~> 0.4.0', require: false
